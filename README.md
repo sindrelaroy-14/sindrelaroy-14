@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 - 🔭 **Current Project:** Building an End-to-End Sales Pipeline using **AWS & Airflow**.
-- 🏢 **Experience:** 3+ Years at **Cognizant** as a Programmer Analyst.
+- 🏢 **Experience:** 3+ Years at **Cognizant** as an Associate Data Engineer.
 - ⚡ **Key Metric:** Reduced ETL processing time by **75%** for billion-row datasets.
 - 🎯 **Focus:** Scalable Cloud Architectures, DataOps, and High-Performance Spark Tuning.
 
