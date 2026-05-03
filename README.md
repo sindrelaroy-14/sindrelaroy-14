@@ -41,7 +41,7 @@
 
 ## 💼 Professional Experience
 
-### **Programmer Analyst | Cognizant** (3+ Years)
+### **Associate | Cognizant** (3+ Years)
 * **Big Data Migration:** Spearheaded the migration of **1 Billion+ records** from Hive to Snowflake.
 * **Cost Optimization:** Re-engineered pipelines in **Azure Databricks**, cutting operational costs by 40%.
 * **Architecture:** Implemented **Medallion Architecture** (Bronze/Silver/Gold) for robust data governance.
